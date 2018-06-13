@@ -1,5 +1,5 @@
 const botconfig = require("./botconfig.json");
-const Discord = require('discord.js');
+const Discord = require("discord.js");
 const tokenfile = require("./token.json");
 const fs = require("fs");
 const encode = require('strict-uri-encode');
